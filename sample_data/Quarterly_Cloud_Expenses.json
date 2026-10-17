@@ -1,0 +1,7 @@
+[
+  { "service": "Amazon Bedrock (Claude 3 Sonnet)", "category": "AI Inference", "cost": 420.50, "month": "September" },
+  { "service": "Amazon S3 Storage Lake", "category": "Object Storage", "cost": 84.20, "month": "September" },
+  { "service": "Amazon ECS Fargate", "category": "Container Compute", "cost": 315.00, "month": "September" },
+  { "service": "Amazon RDS PostgreSQL", "category": "Database", "cost": 210.80, "month": "September" },
+  { "service": "Amazon CloudWatch", "category": "Observability", "cost": 45.10, "month": "September" }
+]

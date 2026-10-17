@@ -1,0 +1,4 @@
+ContextPilot AI Architecture Overview.
+Section 1: The Agent Orchestrator manages planning and approval state machines.
+Section 2: Amazon Bedrock powers natural language task planning with strict parameter validation.
+Section 3: The system maintains 100% tenant isolation across database entities.
